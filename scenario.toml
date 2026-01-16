@@ -9,7 +9,7 @@ name = "security_analyst"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
 
 [config]
-task_id = "arvo:47101"
+task_id = "arvo:3938"
 difficulty = "level1"
 llm_model = "gpt-3.5-turbo"
 max_attempts = 3
