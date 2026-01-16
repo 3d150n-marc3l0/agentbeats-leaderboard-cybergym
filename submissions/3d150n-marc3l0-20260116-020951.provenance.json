@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/3d150n-marc3l0/agentbeats-cybergym-green-agent@sha256:e42f73e4c9fafd912dac2430c2238de9d4c843fdec625b520001f2a2d6592978",
+    "security_analyst": "ghcr.io/3d150n-marc3l0/agentbeats-cybergym-purple-agent@sha256:9cbad59bd6c6bb5b4430acdcfded75a5f34ea55f2e46757b4f4dd019dc1f5ef9",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-16T02:09:51Z",
+  "github_actions": {
+    "run_url": "https://github.com/3d150n-marc3l0/agentbeats-leaderboard-cybergym/actions/runs/21053141802",
+    "run_logs_url": "https://api.github.com/repos/3d150n-marc3l0/agentbeats-leaderboard-cybergym/actions/runs/21053141802/logs",
+    "ref": "refs/heads/3d150n-marc3l0-patch-4",
+    "sha": "31d60009b8042734257f63cf3ec79bcb48651b0f",
+    "repository_url": "https://github.com/3d150n-marc3l0/agentbeats-leaderboard-cybergym",
+    "workflow_ref": "3d150n-marc3l0/agentbeats-leaderboard-cybergym/.github/workflows/run-scenario.yml@refs/heads/3d150n-marc3l0-patch-4",
+    "workflow_sha": "31d60009b8042734257f63cf3ec79bcb48651b0f"
+  }
+}
