@@ -1,7 +1,7 @@
 [green_agent]
 agentbeats_id = "019bb888-a219-7090-92ed-50d222e09def"
 name = "evaluator"
-env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", CYBERGYM_SERVER = "${CYBERGYM_SERVER}" }
 
 [[participants]]
 agentbeats_id = "019bc426-9c61-7fd3-852a-71bcb68e470f"
